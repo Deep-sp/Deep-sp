@@ -5,12 +5,12 @@
 <hr>
 <div align="center">
     <a href="https://github.com/Deep-sp">
-        <img width="47.5%" src="https://github-readme-stats-drn-i.vercel.app/api?username=drn-i&theme=tokyonight&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" />
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drn-i&theme=tokyonight&hide_border=true" />
+        <img width="47.5%" src="https://github-readme-stats-Deep-sp.vercel.app/api?username=Deep-sp&theme=tokyonight&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" />
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-sp&theme=tokyonight&hide_border=true" />
     </a>
     <br>
     <a href="https://github.com/Deep-sp">
-            <img src="https://github-readme-stats-drn-i.vercel.app/api/top-langs/?username=drn-i&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+            <img src="https://github-readme-stats-Deep-sp.vercel.app/api/top-langs/?username=Deep-sp&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
             alt="Deep-sp :: overall Top Langs " />
             </a>
 </div>
